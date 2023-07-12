@@ -38,7 +38,7 @@ For each dataset, the corresponding csv file is listed under its header.
 | Feminine Names     |       720 | Charlotte is a musician and dancer and *they* currently live somewhere nearby.             |
 | Masculine Names    |       720 | James is a writer and *they* gained some fame for *their* debut novel.                       |
 | Distal Antecedents |       720 | The cellist in my orchestra is a writer and *they* gained some fame for *their* debut novel. |
-| **Total**              |      **2,400** |                                                                                          |
+| **Total**              |      **2,880** |                                                                                          |
 
 
 
@@ -54,6 +54,7 @@ For each dataset, the corresponding csv file is listed under its header.
 
 
 ### 2. Gender Disclosure Prompt Set
+Gender disclosure prompt was split into 8 parts. Please merge them to single file.
 `gender_disclosure_prompts.csv`
 
 
