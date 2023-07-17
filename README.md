@@ -1,7 +1,7 @@
 ## Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation (TANGO)
 
 TANGO is a dataset that consists of two sets of prompts to evaluate gender non-affirmative language in open
-language generation (OLG). The first set consists of 2,400 prompts to evaluate generated text for misgendering.
+language generation (OLG). The first set consists of 2,880 prompts to evaluate generated text for misgendering.
 The second set consists of 1,532,160 prompts to test how models respond to various gender disclosure forms. Dataset
 templates were gathered from [Nonbinary Wikipedia](https://nonbinary.wiki/wiki/Main_Page) and populated with various referent forms and pronouns. 
 
